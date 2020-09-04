@@ -26,13 +26,17 @@
   border: none;
 }
 .tabs__btn_active {
-  background-color: #a7a7a7;
+  background-color: #808080;
 }
 .tabs__image-wrap {
   margin: 19px auto;
   width: 507px;
   display: flex;
   justify-content: space-between;
+}
+.tabs__img {
+  display: block;
+  margin: 0 auto;
 }
 
 /*# sourceMappingURL=style.css.map */
